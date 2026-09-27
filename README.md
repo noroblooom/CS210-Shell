@@ -1,2 +1,3 @@
 # CS210-Shell
-Code for the creating a shell in class CS210.
+## INSTRUCTIONS
+- Run gcc -o shell shell.c Stages/*.c -Wall -pedantic then run ./shell.
